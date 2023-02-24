@@ -15,8 +15,8 @@ export class AppComponent {
   //Methods that opens up angular-material-ui
   openDialog() {
     this.dialog.open(DialogComponent, {
-      width: '30%',
+      width: '50%',
       height: '50%'
     });
   }
-}
+} 
