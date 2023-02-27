@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung a20",
+      "category": "Electronic",
+      "fresh": "Brand New",
+      "price": 160000,
+      "comment": "This is a great Android phone!",
+      "date": "2023-02-25T08:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "fresh": "Second Hand",
+      "price": 350,
+      "comment": "Sweet fruit!",
+      "date": "2023-02-25T08:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Television",
+      "category": "Electronic",
+      "fresh": "Refurbished",
+      "price": 56000,
+      "comment": "A refurbished Tv... hmmmmm",
+      "date": "2023-02-23T08:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Water Melon",
+      "category": "Vegetables",
+      "fresh": "Brand New",
+      "price": 25,
+      "comment": "A delicious Water Melon!",
+      "date": "2023-02-26T08:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "HP EliteBook",
+      "category": "Electronic",
+      "fresh": "Refurbished",
+      "price": 95000,
+      "comment": "A great and powerful Laptop from Computer Village, Ikeja.",
+      "date": "2023-02-28T08:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Samsung a20",
+      "category": "Electronic",
+      "fresh": "Brand New",
+      "price": 152000,
+      "comment": "This is a great Android phone!",
+      "date": "2023-02-25T08:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

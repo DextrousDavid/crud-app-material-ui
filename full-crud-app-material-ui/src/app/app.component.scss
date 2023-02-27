@@ -1,3 +1,18 @@
 .example-spacer {
-    flex: 1 1 auto;
-  }
+  flex: 1 1 auto;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+//Since we don't have bootstrap installed, we can use this as our container, to center the table at the middle.
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
